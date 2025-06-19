@@ -1,3 +1,4 @@
+// this code will append the data to the file test.txt
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
